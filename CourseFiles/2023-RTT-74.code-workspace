@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../C1_Crash-Course-On-Python_Akash-goyal-github"
+		},
+		{
+			"path": "../../C1_Crash-Course-on-Python-by-Google_TazelHossan"
+		},
+		{
+			"path": "../../C1_Crash-Course-on-Python-by-Google_zaahidali"
+		},
+		{
+			"path": "../../C2_Using-Python-to-Interact-with-the-Operating-System_TazelHossan"
+		},
+		{
+			"path": "../../C3_Introduction-to-Git-and-Github_TazelHossan"
+		}
+	],
+	"settings": {}
+}
